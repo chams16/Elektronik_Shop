@@ -1,0 +1,116 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"chams",
+            "email":"chams@gmail.com",
+            "pswd":"123456789"
+        },
+        {
+            "id":1,
+            "name":"chams",
+            "email":"chams@gmail.com",
+            "pswd":"123456789"
+        },
+        {
+            "id":1,
+            "name":"chams",
+            "email":"chams@gmail.com",
+            "pswd":"123456789"
+        }
+    ],
+    "product":{
+        "count":10,
+        "product":[
+        {
+            "id":1,
+            "title":"produc01",
+            "image":"https://source.unsplash.com/random/200x200?sig=1",
+            "description":"this is the product 1 in this web module project which is project management",
+            "category":"1",
+            "price":29,
+            "qty":1
+        },
+        {
+            "id":2,
+            "title":"product02",
+            "image":"https://source.unsplash.com/random/200x200?sig=2",
+            "description":"this is the product 2 in this web module project which is project management",
+            "category":"1",
+            "price":12,
+            "qty":3
+        },
+        {
+            "id":3,
+            "title":"product03",
+            "image":"https://source.unsplash.com/random/200x200?sig=3",
+            "description":"this is the product 3 in this web module project which is project management",
+            "category":"1",
+            "price":456,
+            "qty":6
+        },
+        {
+            "id":4,
+            "title":"product04",
+            "image":"https://source.unsplash.com/random/200x200?sig=4",
+            "description":"this is the product 4 in this web module project which is project management",
+            "category":"1",
+            "price":159,
+            "qty":0
+        },
+        {
+            "id":5,
+            "title":"product05",
+            "image":"https://source.unsplash.com/random/200x200?sig=5",
+            "description":"this is the product 5 in this web module project which is project management",
+            "category":"1",
+            "price":50,
+            "qty":8
+        },
+        {
+            "id":6,
+            "title":"product06",
+            "image":"https://source.unsplash.com/random/200x200?sig=6",
+            "description":"this is the product 6 in this web module project which is project management",
+            "category":"1",
+            "price":81,
+            "qty":1
+        },
+        {
+            "id":7,
+            "title":"product07",
+            "image":"https://source.unsplash.com/random/200x200?sig=7",
+            "description":"this is the product 7 in this web module project which is project management",
+            "category":"1",
+            "price":56,
+            "qty":14
+        },
+        {
+            "id":9,
+            "title":"product08",
+            "image":"https://source.unsplash.com/random/200x200?sig=8",
+            "description":"this is the product 8 in this web module project which is project management",
+            "category":"1",
+            "price":1230,
+            "qty":0
+        },
+        {
+            "id":10,
+            "title":"product09",
+            "image":"https://source.unsplash.com/random/200x200?sig=10",
+            "description":"this is the product 9 in this web module project which is project management",
+            "category":"1",
+            "price":950,
+            "qty":7
+        },
+        {
+            "id":11,
+            "title":"product10",
+            "image":"https://source.unsplash.com/random/200x200?sig=9",
+            "description":"this is the product 10 in this web module project which is project management",
+            "category":"1",
+            "price":123,
+            "qty":0
+        }]
+        }
+}
