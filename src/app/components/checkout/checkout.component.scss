@@ -1,0 +1,28 @@
+.btn-checkout{
+    border-radius: 50px;
+    color: #fff;
+    background-image: linear-gradient(to right, crimson, black);
+    
+    cursor: pointer;
+    border: none !important;
+    
+}
+.btn-remise{
+    border-radius: 50px;
+    color: #fff;
+    background-image: linear-gradient(to left, crimson, black);
+    
+    cursor: pointer;
+    border: none !important;
+}
+
+.btn-checkout:hover {
+    color: #fff;
+    background-image: linear-gradient(to right, black, crimson)
+}
+
+.btn-remise:hover {
+    color: #fff;
+    background-image: linear-gradient(to left, black, crimson)
+}
+
